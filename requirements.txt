@@ -1,0 +1,7 @@
+dvc
+pytest
+pytest-cov
+pylint
+fire
+black
+ipython
