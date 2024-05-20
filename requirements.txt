@@ -6,3 +6,6 @@ pylint
 fire
 black
 ipython
+mlflow
+scikit-learn
+seaborn
